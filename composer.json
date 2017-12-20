@@ -8,6 +8,11 @@
             "email": "vlad.istratov.96@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "MindK\\Framework": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
