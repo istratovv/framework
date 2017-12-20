@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MindK\\Framework": "src/"
+            "MindK\\Framework\\": "src/"
         }
     },
     "minimum-stability": "dev",
