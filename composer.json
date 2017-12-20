@@ -1,0 +1,13 @@
+{
+    "name": "mindk/framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vlad Istratov",
+            "email": "vlad.istratov.96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
