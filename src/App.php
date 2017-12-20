@@ -6,6 +6,8 @@
  * Time: 19:44
  */
 
+namespace MindK\Framework;
+
 class App
 {
     public function run(){
